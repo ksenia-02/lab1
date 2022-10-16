@@ -1,5 +1,5 @@
 .header {
-    background: url(/image/backheader.png) no-repeat;
+    background: url(../image/backheader.png) no-repeat;
     background-size: cover;
     padding-top: 18px;
     padding-bottom: 20px;
@@ -84,7 +84,7 @@
 }
 
 .big_image {
-    background: url(/image/fon.png);
+    background: url(../image/fon.png);
     padding-top: 210px;
     background-size: cover;
     height: 600px;
