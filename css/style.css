@@ -84,6 +84,7 @@
 }
 
 .big_image {
+    background: url(/image/fon.png);
     padding-top: 210px;
     background-size: cover;
     height: 600px;
